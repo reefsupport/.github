@@ -49,8 +49,8 @@ Join the discussion and collaborate with us:
 
 If you find our work helpful, consider giving us a ⭐ on GitHub or sharing our mission with others!
 
----
+<!-- ---
 
-<!-- ### 📜 License
+### 📜 License
 
 This repository is open-source and available under the [MIT License](LICENSE). -->
