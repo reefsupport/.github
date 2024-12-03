@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reefsupport/.github/refs/heads/main/public/logo_text_horizontal.png" alt="Reef Support Logo" width="50%">
+  <img src="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal.png" alt="Reef Support Logo" width="50%">
 </p>
 
 # 🌊 Reef Support
@@ -34,7 +34,7 @@ Explore and integrate our AI models for marine life detection.
 
 ### Contribute
 
-We welcome contributions! Check out our [contribution guidelines](https://github.com/reefsupport/.github/contributing.md) for more details.
+We welcome contributions! Check out our [contribution guidelines](../contributing.md) for more details.
 
 ### Community
 
