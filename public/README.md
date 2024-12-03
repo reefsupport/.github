@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reefsupport/reefsupport/main/assets/logo.png" alt="Reef Support Logo" width="200">
+  <img src="https://raw.githubusercontent.com/reefsupport/reefsupport/main/public/logo_text_horizontal_transparent.png" alt="Reef Support Logo" width="200">
 </p>
 
 # 🌊 Reef Support
