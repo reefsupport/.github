@@ -34,7 +34,7 @@ Explore and integrate our AI models for marine life detection.
 
 ### Contribute
 
-We welcome contributions! Check out our [contribution guidelines](https://github.com/reefsupport/contributing.md) for more details.
+We welcome contributions! Check out our [contribution guidelines](https://github.com/reefsupport/.github/contributing.md) for more details.
 
 ### Community
 
@@ -51,6 +51,6 @@ If you find our work helpful, consider giving us a ⭐ on GitHub or sharing our 
 
 ---
 
-### 📜 License
+<!-- ### 📜 License
 
-This repository is open-source and available under the [MIT License](LICENSE).
+This repository is open-source and available under the [MIT License](LICENSE). -->
