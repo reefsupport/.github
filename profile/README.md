@@ -34,7 +34,7 @@ Explore and integrate our AI models for marine life detection.
 
 ### Contribute
 
-We welcome contributions! Check out our [contribution guidelines](../contributing.md) for more details.
+We welcome contributions! Check out our [contribution guidelines](../CONTRIBUTING.md) for more details.
 
 ### Community
 
