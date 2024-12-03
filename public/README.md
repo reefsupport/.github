@@ -1,17 +1,56 @@
 <p align="center">
-  <a href="https://wildflow.ai" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal_transparent_white.png"
-      />
-      <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal_transparent.png"
-      />
-      <img alt="wildflow logo" width="60%"
-          srcset="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal_transparent.png"
-      />
-    </picture>
-  </a>
+  <img src="https://raw.githubusercontent.com/reefsupport/reefsupport/main/assets/logo.png" alt="Reef Support Logo" width="200">
 </p>
 
-At [Reef Support](https://reef.support), we develop AI tools for marine ecosystem monitoring. We also work with over 30+ organizations worldwide in reef, cetacean and shark protection to provide conservation training globally.
+# 🌊 Reef Support
+
+Welcome to the **Reef Support** GitHub profile! We are dedicated to providing cutting-edge tools and technologies to support marine conservation efforts around the globe. Our mission is to protect and restore marine ecosystems using innovative AI-driven solutions.
+
+---
+
+## 🐠 About Us
+
+Reef Support develops tools that:
+
+- Monitor marine life and ecosystem health with **AI-driven analytics**.
+- Provide insights to researchers, conservationists, and policymakers.
+- Empower communities to take data-driven actions for ocean sustainability.
+
+---
+
+## 📂 Repository Highlights
+
+### [🌐 MariMap Platform](https://marimap.reef.support)
+
+The primary application supporting marine conservation efforts.
+
+### [🤖 AI Models on Hugging Face](https://huggingface.co/reefsupport)
+
+Explore and integrate our AI models for marine life detection.
+
+---
+
+## 💬 Get Involved
+
+### Contribute
+
+We welcome contributions! Check out our [contribution guidelines](https://github.com/reefsupport/contributing.md) for more details.
+
+### Community
+
+Join the discussion and collaborate with us:
+
+- [Official Website](https://www.reef.support)
+- [Contact Us](https://www.reef.support/contact)
+
+---
+
+## 🌟 Support Us
+
+If you find our work helpful, consider giving us a ⭐ on GitHub or sharing our mission with others!
+
+---
+
+### 📜 License
+
+This repository is open-source and available under the [MIT License](LICENSE).
