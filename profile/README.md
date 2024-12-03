@@ -22,7 +22,7 @@ Reef Support develops tools that:
 
 ### [🌐 MariMap Platform](https://marimap.reef.support)
 
-The primary application supporting marine conservation efforts.
+Our primary application supporting marine conservation efforts.
 
 ### [🤖 AI Models on Hugging Face](https://huggingface.co/reefsupport)
 
