@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal_transparent_white.png"> -->
-    <img src="https://raw.githubusercontent.com/reefsupport/.github/main/profile/logo_text_horizontal_transparent.png" alt="Reef Support Logo" width="40%">
+    <img src="https://cdn.reef.support/assets/brand/reef-support/reef-support-logo-text-color.png" alt="Reef Support Logo" width="40%">
   </picture>
 </p>
 
